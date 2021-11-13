@@ -11,6 +11,7 @@ Because Commander Lambda is an equal-opportunity despot, she has several visuall
 1 4
 2 5
 3 6
+
 So given the plain text word “code”, you get the Braille dots:
 
 11 10 11 10
@@ -22,6 +23,7 @@ So given the plain text word “code”, you get the Braille dots:
 11 10 11 10
 00 01 01 01
 00 10 00 00
+
 Write a function where 1 represents a bump and 0 represents no bump. Put together, “code” becomes the output string “100100101010100110100010”.
 
 
