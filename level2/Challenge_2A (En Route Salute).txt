@@ -15,17 +15,11 @@ Write a function answer(s) which takes a string representing employees walking a
 ### Test cases
 
 Input:
-
 `">----<"`
-
 Output:
-
 `2`
 
 Input:
-
-`"<<>><"`
-
+`"--->-><-><-->-"`
 Output:
-
-`4`
+`10`
