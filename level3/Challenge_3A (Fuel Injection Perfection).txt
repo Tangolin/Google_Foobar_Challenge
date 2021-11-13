@@ -32,6 +32,7 @@ Inputs:
     (string) n = "4"
 Output:
     (int) 2
+    
 Inputs:
     (string) n = "15"
 Output:
