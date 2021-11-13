@@ -4,5 +4,3 @@ def solution(s):
     salutes = sum([s[index:].count('<') for index in positions])
     
     return salutes * 2
-
-print(solution('-------'))
